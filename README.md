@@ -8,3 +8,5 @@
 - 제일 좋아하는 넷플릭스 드라마, 영화
     - 데리걸즈
     - 저니스 엔드
+
+[vscode 팁](https://github.com/momongss/daily-time-plan.git)
